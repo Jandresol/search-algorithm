@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Corporate Hedge Fund Manager",
+    "skills": ["financial analysis", "budgeting", "strategic planning"],
+    "training": ["finance", "risk management", "nonprofit governance"],
+    "interests": ["finance", "philanthropy", "community development"],
+    "saved_opportunities": []
+  },
+  {
+    "id": 2,
+    "name": "Youth Church Helper (Age 7)",
+    "skills": ["helping with small tasks", "listening", "being kind"],
+    "training": ["food safety", "basic first aid"],
+    "interests": ["community outreach", "spiritual growth", "food distribution"],
+    "saved_opportunities": []
+  },
+  {
+    "id": 3,
+    "name": "Environmental Activist",
+    "skills": ["planting", "sustainability", "recycling"],
+    "training": ["environmental science", "public speaking"],
+    "interests": ["nature conservation", "climate action", "education"],
+    "saved_opportunities": []
+  },
+  {
+    "id": 4,
+    "name": "Senior Care Volunteer",
+    "skills": ["compassion", "communication", "elderly care"],
+    "training": ["healthcare basics", "emergency response"],
+    "interests": ["community service", "health and wellness", "social work"],
+    "saved_opportunities": []
+  },
+  {
+    "id": 5,
+    "name": "Teen Math Tutor",
+    "skills": ["tutoring", "math", "peer mentoring"],
+    "training": ["basic teaching methods", "first aid"],
+    "interests": ["education", "helping others", "academic clubs"],
+    "saved_opportunities": []
+  }
+
+]
+
