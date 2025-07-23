@@ -1,6 +1,6 @@
 # 🧭 AI-Powered Database Search
 
-This is a microservicesemantic search engine that helps users search a database file tailored to a user profile. It uses vector embeddings and keyword matching to deliver personalized, high-quality recommendations through a fast, responsive UI.
+This is a microservice search engine that helps users search a database file tailored to a user profile. It uses vector embeddings and keyword matching to deliver personalized, high-quality recommendations through a fast, responsive UI.
 
 ---
 
