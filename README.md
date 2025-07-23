@@ -1,6 +1,6 @@
-# 🧭 VolunteerGo — AI-Powered Volunteer Opportunity Search
+# 🧭 AI-Powered Database Search
 
-Welcome to **VolunteerGo**, a semantic search engine that helps users find meaningful volunteer opportunities tailored to their interests, skills, and training. It uses vector embeddings and keyword matching to deliver personalized, high-quality recommendations through a fast, responsive UI.
+This is a microservicesemantic search engine that helps users search a database file tailored to a user profile. It uses vector embeddings and keyword matching to deliver personalized, high-quality recommendations through a fast, responsive UI.
 
 ---
 
